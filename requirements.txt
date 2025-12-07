@@ -1,0 +1,10 @@
+
+### Requirements
+- Python 3.11+
+- Jupyter Notebook environment (JupyterLab, Google Colab)
+- Recommended: Python environment manager (e.g. Anaconda)
+
+Install dependencies using:
+
+```bash
+pip install -r requirements.txt
